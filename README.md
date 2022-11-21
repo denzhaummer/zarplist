@@ -4,7 +4,7 @@
 
 - zarplist, türk sitelerindeki sinirbozucu web elementlerini engelleyen bir kural listesidir.
 
-- zarplist, [bakinazik](https://github.com/bakinazik/ "bakinazik")'in [listesinin](https://github.com/bakinazik/blocklist "listesinin") adam edilmiş halidir.
+- zarplist, <img title="Evrim Ağacı" src="https://avatars.githubusercontent.com/u/64368231?v=4" width="20" alt="evrimagaci" data-canonical-src="https://github.com/bakinazik/" style="max-width: 5%;"> [bakinazik](https://github.com/bakinazik/ "bakinazik")'in [listesinin](https://github.com/bakinazik/blocklist "listesinin") adam edilmiş halidir.
 
 - zarplist filtrelerinin kullanım biçimi tıpkı easylist veya adguard listeleride olduğu gibidir.
 
