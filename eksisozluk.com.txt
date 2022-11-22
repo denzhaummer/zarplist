@@ -3,6 +3,8 @@
 # Homepage: https://github.com/denzhaummer/zarplist/
 # Version Date: 2222/11/22
 # ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
+eksisozluk.com##.pena-logo-container.link-container.no-hover
+eksisozluk.com##.eksiseyler-logo-container.link-container.no-hover
 eksisozluk.com##.mobile-only.tracked
 eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only > [href="https://www.youtube.com/penavideo"]
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"]
