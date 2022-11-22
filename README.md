@@ -11,3 +11,5 @@
 - şimdilik zarplist'in kapsadığı siteler şu şekildedir;
 
  <img title="Evrim Ağacı" src="https://evrimagaci.org/public/images/logo/v3.svg?v=1" width="20" alt="evrimagaci" data-canonical-src="https://www.evrimagaci.org" style="max-width: 5%;"> [Evrim Ağacı](http://evrimagaci.org)
+ 
+ <img title="Ekşi Sözlük" src="https://styles.redditmedia.com/t5_4qxz09/styles/communityIcon_uof0xy5zeua71.png?width=256&s=34ab39efcf84c499932549a148428826a57a11a6" width="30" alt="eksisozluk" data-canonical-src="https://www.evrimagaci.org" style="max-width: 50%;"> [Ekşi Sözlük](http://eksisozluk.com "Ekşi Sözlük")
