@@ -1,0 +1,12 @@
+# Title: ZarpList/EksiSozluk
+# Author: denzhaummer (https://github.com/denzhaummer/)
+# Homepage: https://github.com/denzhaummer/zarplist/
+# Version Date: 2222/11/22
+# ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
+eksisozluk.com##.mobile-only.tracked
+eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only > [href="https://www.youtube.com/penavideo"]
+eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"]
+eksisozluk.com###search-box-ad
+eksisozluk.com##.rate-options
+eksisozluk.com##.avatar-container > [href="/biri/proffff"]
+eksisozluk.com##.not-mobile.tracked > .new-update
