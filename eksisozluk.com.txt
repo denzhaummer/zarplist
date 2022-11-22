@@ -8,5 +8,5 @@ eksisozluk.com##.pena-logo-mobile.no-hover.mobile-only > [href="https://www.yout
 eksisozluk.com##.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"]
 eksisozluk.com###search-box-ad
 eksisozluk.com##.rate-options
-eksisozluk.com##.avatar-container > [href="/biri/proffff"]
 eksisozluk.com##.not-mobile.tracked > .new-update
+eksisozluk.com##.avatar-container
