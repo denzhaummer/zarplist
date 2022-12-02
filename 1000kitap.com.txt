@@ -10,3 +10,4 @@
 1000kitap.com##.cursor.pv-2.pr-2.border-b.border-t.border-cizgi.mh-2.mv-2.dr
 1000kitap.com##.mb-8.mt-4.dr
 1000kitap.com##a.cursor.pl-16.active\:bg-button-selected.hover\:bg-button-hover.pr-4.pv-2.w-full.items-center.transition-background-color.overflow-hidden.rounded-2.min-h-11.flex-row.dr:nth-of-type(4)
+1000kitap.com##.pb-4.pt-4.w-full.dr > div > .justify-center.flex-row.dr
