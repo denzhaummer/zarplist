@@ -1,0 +1,7 @@
+# Title: ZarpList/1000Kitap
+# Author: denzhaummer (https://github.com/denzhaummer/)
+# Homepage: https://github.com/denzhaummer/zarplist/
+# Version Date: 2222/12/02
+# ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
+1000kitap.com##.cursor.pv-4.active\:bg-button-hover.bg-ana.w-full.dr
+1000kitap.com##.min-h-100vh-eksi-ust-yukseklik.orta-width.lg\:mr-8.dr > .min-h-100vh-eksi-ust-yukseklik.dr > div > .justify-center.flex-row.dr
