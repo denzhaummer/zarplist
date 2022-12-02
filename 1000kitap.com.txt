@@ -6,3 +6,4 @@
 1000kitap.com##.cursor.pv-4.active\:bg-button-hover.bg-ana.w-full.dr
 1000kitap.com##.adsbygoogle
 1000kitap.com##.min-h-100vh-eksi-ust-yukseklik.orta-width.lg\:mr-8.dr > .min-h-100vh-eksi-ust-yukseklik.dr > div > .justify-center.flex-row.dr
+1000kitap.com##.flex-center.border.border-cizgi.rounded-2.h-62_5.w-75.dr
