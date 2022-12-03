@@ -1,7 +1,7 @@
 # Title: ZarpList/EvrimAgaci
 # Author: Baki Nazik (https://github.com/bakinazik/)
 # Homepage: https://github.com/denzhaummer/zarplist/
-# Version Date: 2222/11/21
+# Version Date: 2022/11/21
 # ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
 evrimagaci.org##.call-for-support
 evrimagaci.org##.support-btn-con.primary.main-btn
