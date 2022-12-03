@@ -1,7 +1,7 @@
 # Title: ZarpList/EksiSozluk
 # Author: denzhaummer (https://github.com/denzhaummer/)
 # Homepage: https://github.com/denzhaummer/zarplist/
-# Version Date: 2222/11/22
+# Version Date: 2022/11/22
 # ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
 eksisozluk.com##.pena-logo-container.link-container.no-hover
 eksisozluk.com##.eksiseyler-logo-container.link-container.no-hover
