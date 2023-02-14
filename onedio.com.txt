@@ -1,0 +1,12 @@
+# Title: ZarpList/Onedio
+# Author: denzhaummer (https://github.com/denzhaummer/)
+# Homepage: https://github.com/denzhaummer/zarplist/
+# Version Date: 2023/02/15
+# ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
+onedio.com##.px-2.items-center.flex.h-12.w-full.bg-black-90
+onedio.com##.w-full.font-semibold.text-md.items-center.flex.py-4.bg-white.currencySlider
+onedio.com##div.min-h-\[200px\].w-full.my-3.py-2\.5.bg-\[\#f7f8fb\]
+onedio.com##.h-11.sm\:hidden.my-6.flex
+onedio.com##.z-3.top-\[100px\].sticky.u-center.h-10.border-divider-\[\#EAECF1\].border-b.bg-white.w-full
+onedio.com##.u-center.mr-8.h-10.bg-black-90.w-full
+onedio.com##.top-36.mr-6.items-end.flex-col.flex.fixed.right-0.z-75
