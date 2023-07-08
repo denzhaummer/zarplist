@@ -1,14 +1,14 @@
 # Title: ZarpList/EksiSozluk
 # Author: denzhaummer (https://github.com/denzhaummer/)
 # Homepage: https://github.com/denzhaummer/zarplist/
-# Version Date: 2023/04/01
+# Version Date: 2023/07/08
 # ReadME: https://github.com/denzhaummer/zarplist/blob/main/README.md
-eksisozluk2023.com##.pena-logo-container.link-container.no-hover
-eksisozluk2023.com##.eksiseyler-logo-container.link-container.no-hover
-eksisozluk2023.com##.mobile-only.tracked
-eksisozluk2023.com##.pena-logo-mobile.no-hover.mobile-only > [href="https://www.youtube.com/penavideo"]
-eksisozluk2023.com##.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"]
-eksisozluk2023.com###search-box-ad
-eksisozluk2023.com##.rate-options
-eksisozluk2023.com##.not-mobile.tracked > .new-update
-eksisozluk2023.com##.avatar-container
+eksisozluk1923.com##.pena-logo-container.link-container.no-hover
+eksisozluk1923.com##.eksiseyler-logo-container.link-container.no-hover
+eksisozluk1923.com##.mobile-only.tracked
+eksisozluk1923.com##.pena-logo-mobile.no-hover.mobile-only > [href="https://www.youtube.com/penavideo"]
+eksisozluk1923.com##.eksiseyler-logo-mobile.no-hover.mobile-only > [href="https://seyler.eksisozluk.com"]
+eksisozluk1923.com###search-box-ad
+eksisozluk1923.com##.rate-options
+eksisozluk1923.com##.not-mobile.tracked > .new-update
+eksisozluk1923.com##.avatar-container
